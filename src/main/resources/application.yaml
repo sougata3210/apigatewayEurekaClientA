@@ -1,0 +1,11 @@
+server:
+  port: 8001
+spring:
+  application:
+    name: employee-service
+  #eureka.instance.hostname=localhost
+test:
+  app:
+    prop1: prop1
+    prop2: prop2
+    prop3: prop3
